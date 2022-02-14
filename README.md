@@ -3,9 +3,9 @@
 <h3 align="center">I'm a college student from Indonesia. </h3>
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **[Teras Coin]()**
+- 🔭 I’m currently working on **[Colombuss Network]()**
   
-- 🌱 I’m currently learning **Machine Learning and Blockchain.**
+- 🌱 I’m currently learning **Artificial Intelegence and Blockchain.**
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bramantyairsyaa@gmail.com**
 
-- ⚡ Fun fact **I'm working in a place where the CEO is myself.**
+- ⚡ Fun fact **Im one of the Superheroes.**
 ## 🚀 Languages and Tools:
 <p align="left">      
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
