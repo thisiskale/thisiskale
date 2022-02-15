@@ -3,7 +3,7 @@
 <h3 align="center">I'm a college student from Indonesia. </h3>
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **[Colombuss Network]()**
+- 🔭 I’m currently working on **[Colombuss Network](https://thisiskale.github.io/colombuss-network-web/)**
   
 - 🌱 I’m currently learning **Artificial Intelegence and Blockchain.**
 
