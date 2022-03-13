@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://giphy.com/embed/u1ysISFV3VwPJUIqQW" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media0.giphy.com/media/u1ysISFV3VwPJUIqQW/giphy.gif?cid=6c09b952a00d88f81cb1a49df0a77f46d54fb01d9fa56404&rid=giphy.gif&ct=g" height="175px"/></a>
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kale, but also known as Bram</h1>
 <h3 align="center">I'm a college student from Indonesia. </h3>
 
