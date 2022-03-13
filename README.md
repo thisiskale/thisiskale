@@ -7,13 +7,13 @@
   
 - 🌱 I’m currently learning **Artificial Intelegence and Blockchain.**
 
-- 👯 I’m looking to collaborate on **Blockchain Projects**
+- 👯 I’m looking to collaborate on **Fintech Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://kale)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/thisiskale/)**
 
 - 📫 How to reach me **bramantyairsyaa@gmail.com**
 
-- ⚡ Fun fact **Im one of the Superheroes.**
+- ⚡ Fun fact **Forever work.**
 ## 🚀 Languages and Tools:
 <p align="left">      
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -48,7 +48,7 @@
 <a href = "https://www.linkedin.com/in/bramantya-irsya/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/bram.irs/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
-❤️ Views and Followers
+## ❤️ Views and Followers
 <p align="left">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=thisiskale"></a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/thisiskale?label=Followers&style=social" alt="GitHub Badge"></a>
