@@ -49,7 +49,7 @@
 <a href = "https://www.instagram.com/bram.irs/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 ## Views and Followers
-<p>
+<p align="left">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=thisiskale">
 </a>
