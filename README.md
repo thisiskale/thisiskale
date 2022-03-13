@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on **[Colombuss Network](https://thisiskale.github.io/colombuss-network-web/)**
   
-- 🌱 I’m currently learning **Artificial Intelegence and Blockchain.**
+- 🌱 I’m currently learning **Risk Management.**
 
 - 👯 I’m looking to collaborate on **Fintech Projects**
 
