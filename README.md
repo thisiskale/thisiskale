@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://c.tenor.com/-n4k63Qsk-4AAAAM/anonymous-hacker.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://giphy.com/embed/u1ysISFV3VwPJUIqQW" height="175px"/></a>
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kale, but also known as Bram</h1>
 <h3 align="center">I'm a college student from Indonesia. </h3>
 
