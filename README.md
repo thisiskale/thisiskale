@@ -49,7 +49,9 @@
 <a href = "https://www.instagram.com/bram.irs/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 ## Views and Followers
+<p>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=thisiskale">
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/thisiskale?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
